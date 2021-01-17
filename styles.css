@@ -1,0 +1,18 @@
+
+table{
+    width: 900px;
+}
+th{
+    text-align: left;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+      padding: 10px;
+  }
+  h1, th, .meal, .inst {
+      text-align: center;
+  }
+ 
